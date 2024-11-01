@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+cot_reports/__init__.py
+cot_reports/cot_reports.py
+cot_reports.egg-info/PKG-INFO
+cot_reports.egg-info/SOURCES.txt
+cot_reports.egg-info/dependency_links.txt
+cot_reports.egg-info/requires.txt
+cot_reports.egg-info/top_level.txt
